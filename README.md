@@ -6,6 +6,12 @@ O intuito do projeto foi desenvolver um banco da dados no MySQL conectado ao PHP
 
 ### CodeIgniter : Utilizado para os servidores, bancos de dados, segurança, estrutura e gerenciamento de conteúdo do projeto.
 ### Bootstrap: Utilizado para o layout do projeto.
+<br>
+<br>
+
+
+
+![Captura de tela 2022-09-27 143514](https://user-images.githubusercontent.com/89953265/192596876-845f5970-1b7c-40a8-bd39-1c35398614db.png)
 
 
 
