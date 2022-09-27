@@ -35,7 +35,7 @@ echo form_open('public/main/editdadossubmition')
 
         <div class="row">
             <div class="col">
-                <a href="<?= site_url('public/main/projeto')?>" class="btn btn-secondary">Cancelar</a>
+                <a href="<?= site_url('public/main')?>" class="btn btn-secondary">Cancelar</a>
             </div>
           <div class="col text-right">
              <input type="submit" value="Atualizar" class="btn btn-primary">

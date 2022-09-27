@@ -27,7 +27,7 @@
 
  <div class="row">
         <div class="col text-center">
-       <a href="<?= site_url('public/main/projeto')?>" class="btn btn-secondary">NÃO</a>
+       <a href="<?= site_url('public/main')?>" class="btn btn-secondary">NÃO</a>
        <a href="<?= site_url('public/main/deletedadosconfirm/'.$job->id_job)?>" class="btn btn-primary">SIM</a>
 
     </div>
