@@ -1,21 +1,31 @@
-# 💻 ProjetoDB
+# ProjetoDB
+![GitHub repo size](https://img.shields.io/github/repo-size/Daviafonso88/ProjetoDB)
 ![GitHub language count](https://img.shields.io/github/languages/count/Daviafonso88/ProjetoDB)
 ![GitHub forks](https://img.shields.io/github/forks/Daviafonso88/ProjetoDB)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Daviafonso88/ProjetoDB)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Daviafonso88/ProjetoDB)
 
+![Captura de tela 2022-09-27 143514](https://user-images.githubusercontent.com/89953265/192596876-845f5970-1b7c-40a8-bd39-1c35398614db.png)
+
 ## Qual o intuito do projeto?
 
-O intuito do projeto foi desenvolver um banco da dados no MySQL conectado ao PHP e adicionar os dados armazenados em uma tabela por meio de tarefas, onde os dados são adicionados tanto pelo próprio banco de dados quanto no localhost devido a aplicações desenvolvidas nos frameworks:
+> O intuito do projeto foi desenvolver um banco da dados no MySQL conectado ao PHP e adicionar os dados armazenados em uma tabela por meio de tarefas, onde os dados são adicionados tanto pelo próprio banco de dados quanto no localhost devido a aplicações desenvolvidas nos frameworks:
 
-### CodeIgniter : Utilizado para os servidores, bancos de dados, segurança, estrutura e gerenciamento de conteúdo do projeto.
-### Bootstrap: Utilizado para o layout do projeto.
+> ### CodeIgniter : Utilizado para os servidores, bancos de dados, segurança, estrutura e gerenciamento de conteúdo do projeto.
+> ### Bootstrap: Utilizado para o layout do projeto.
 <br>
+
+## 💻 Requisitos 
+
+
+
+- [x] Home funcional
+- [x] Adicionar tarefas
+- [x] Editar tarefas
+- [x] Excluir tarefas
+
+
 <br>
-
-
-
-![Captura de tela 2022-09-27 143514](https://user-images.githubusercontent.com/89953265/192596876-845f5970-1b7c-40a8-bd39-1c35398614db.png)
 
 
 ## 🤝 Colaboradores
