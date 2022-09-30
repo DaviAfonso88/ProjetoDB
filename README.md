@@ -1,4 +1,8 @@
 # 💻 ProjetoDB
+![GitHub language count](https://img.shields.io/github/languages/count/Daviafonso88/ProjetoDB)
+![GitHub forks](https://img.shields.io/github/forks/Daviafonso88/ProjetoDB)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Daviafonso88/ProjetoDB)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Daviafonso88/ProjetoDB)
 
 ## Qual o intuito do projeto?
 
