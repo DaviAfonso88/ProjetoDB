@@ -22,9 +22,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src=/><br>
+        <img src=https://avatars.githubusercontent.com/u/89953265?v=4/><br>
         <sub>
-          <b>Luan Victor</b>
+          <b>Davi Afonso</b>
         </sub>
       </a>
     </td>
