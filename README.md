@@ -1,4 +1,4 @@
-# ProjetoDB
+# 💻 ProjetoDB
 
 ## Qual o intuito do projeto?
 
