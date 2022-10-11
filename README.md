@@ -30,6 +30,8 @@
 
 ## 🔧 Ferramentas Utilizadas 
 
+ <img src="" alt="Java" width="70" height="70"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="70" height="70"/> </a>
+
 
 
 
