@@ -28,6 +28,14 @@
 
 <br>
 
+## 🔧 Ferramentas Utilizadas 
+
+
+
+
+
+<br>
+
 
 ## 🤝 Colaboradores
 
