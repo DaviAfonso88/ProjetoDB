@@ -30,11 +30,15 @@
 
 ## 🔧 Ferramentas Utilizadas 
 
- <img src="" alt="Java" width="70" height="70"/> </a> <a href="https://netbeans.apache.org/download/index.html" target="_blank"> <img src="https://netbeans.apache.org/images/apache-netbeans.svg" alt="Netbeans" width="70" height="70"/> </a>
+<div align=rigth>
+
+  <img align="rigth" alt="DaviAfonso88-php" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 
 
 
-
+<br>
 
 <br>
 
