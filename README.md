@@ -35,6 +35,8 @@
   <img align="rigth" alt="DaviAfonso88-php" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
   <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="rigth" alt="DaviAfonso88-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
 
 
 
