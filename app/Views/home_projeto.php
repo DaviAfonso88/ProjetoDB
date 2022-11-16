@@ -16,18 +16,19 @@
 
 <hr>
 
-<div class="container">
-    <div class="row">
+
         <?php if (count($dados) == 0) : ?>
-            <h5 class="text-center">Não existem tarefas </h5>
+            <h5 class="text-center">Não existem tarefas</h5>
 
         <?php else : ?>
-    </div>
     
+
+<div class="container">
+<div class="row">    
     <table class="table table-striped table-sm">
         <thead class="thead-dark">
             <tr>
-                <th>Tarefa</th>
+                <th class="text-center">Tarefa</th>
                 <th class="text-center">Data de Criação</th>
                 <th class="text-center">Data de finalização</th>
                 <th></th>
