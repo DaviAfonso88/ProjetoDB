@@ -1,63 +1,66 @@
-# CodeIgniter 4 Application Starter
+# ProjetoDB
+![GitHub repo size](https://img.shields.io/github/repo-size/Daviafonso88/ProjetoDB)
+![GitHub language count](https://img.shields.io/github/languages/count/Daviafonso88/ProjetoDB)
+![GitHub forks](https://img.shields.io/github/forks/Daviafonso88/ProjetoDB)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/Daviafonso88/ProjetoDB)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/Daviafonso88/ProjetoDB)
 
-## What is CodeIgniter?
+![Captura de tela 2022-09-27 143514](https://user-images.githubusercontent.com/89953265/192596876-845f5970-1b7c-40a8-bd39-1c35398614db.png)
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](http://codeigniter.com).
+<hr>
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+## Qual o intuito do projeto?
 
-More information about the plans for version 4 can be found in [the announcement](http://forum.codeigniter.com/thread-62615.html) on the forums.
+> O intuito do projeto foi desenvolver um banco de dados no MySQL conectado ao PHP e adicionar os dados armazenados em uma tabela por meio de tarefas, onde os dados são adicionados ou excluidos tanto pelo próprio banco de dados quanto no localhost do projeto devido a aplicações desenvolvidas nos frameworks:
 
-The user guide corresponding to this version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+> ### CodeIgniter : Utilizado para os servidores, bancos de dados, segurança, estrutura e gerenciamento de conteúdo do projeto.
+> ### Bootstrap: Utilizado para o layout do projeto.
+<br>
 
-## Installation & updates
+## 💻 Requisitos 
 
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
 
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
 
-## Setup
+- [x] Home funcional
+- [x] Adicionar tarefas
+- [x] Editar tarefas
+- [x] Excluir tarefas
+- [x] Concluir tarefas
 
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
 
-## Important Change with index.php
+<br>
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+## 🔧 Ferramentas Utilizadas 
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+<div align=rigth>
 
-**Please** read the user guide for a better explanation of how CI4 works!
+  <img align="rigth" alt="DaviAfonso88-php" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
+  <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="rigth" alt="DaviAfonso88-mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+    <img align="rigth" alt="DaviAfonso88-Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 
-## Repository Management
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
 
-## Server Requirements
+<br>
 
-PHP version 7.4 or higher is required, with the following extensions installed:
+<br>
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
 
-Additionally, make sure that the following extensions are enabled in your PHP:
+## 🤝 Colaboradores
 
-- json (enabled by default - don't turn it off)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
-- xml (enabled by default - don't turn it off)
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="#">
+         <img src="https://avatars.githubusercontent.com/u/89953265?v=4" width="100px;" alt="Foto de Davi Afonso no GitHub"/><br>
+        <sub>
+          <b>Davi Afonso</b>
+        </sub>
+      </a>
+    </td>
+</table>
+
+ ``` OBS: Veja o video demonstrativo do projeto na pasta Video ``` 
